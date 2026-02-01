@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nickw\\OneDrive\\Desktop\\School\\Semester 4\\C\u002B\u002B Game Dev\\lab2-c--\\Lab2c\u002B\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{832CEFCE-7A87-4675-A1C2-B83AC0A8AAD5}|Lab2c\u002B\u002B\\Lab2c\u002B\u002B.vcxproj|C:\\Users\\nickw\\OneDrive\\Desktop\\School\\Semester 4\\C\u002B\u002B Game Dev\\lab2-c--\\Lab2c\u002B\u002B\\Lab2c\u002B\u002B\\Lab2c\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{832CEFCE-7A87-4675-A1C2-B83AC0A8AAD5}|Lab2c\u002B\u002B\\Lab2c\u002B\u002B.vcxproj|solutionrelative:Lab2c\u002B\u002B\\Lab2c\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832CEFCE-7A87-4675-A1C2-B83AC0A8AAD5}|Lab2c\u002B\u002B\\Lab2c\u002B\u002B.vcxproj|C:\\Users\\nickw\\OneDrive\\Desktop\\School\\Semester 4\\C\u002B\u002B Game Dev\\lab2-c--\\Lab2c\u002B\u002B\\Lab2c\u002B\u002B\\Inventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{832CEFCE-7A87-4675-A1C2-B83AC0A8AAD5}|Lab2c\u002B\u002B\\Lab2c\u002B\u002B.vcxproj|solutionrelative:Lab2c\u002B\u002B\\Inventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832CEFCE-7A87-4675-A1C2-B83AC0A8AAD5}|Lab2c\u002B\u002B\\Lab2c\u002B\u002B.vcxproj|C:\\Users\\nickw\\OneDrive\\Desktop\\School\\Semester 4\\C\u002B\u002B Game Dev\\lab2-c--\\Lab2c\u002B\u002B\\Lab2c\u002B\u002B\\Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{832CEFCE-7A87-4675-A1C2-B83AC0A8AAD5}|Lab2c\u002B\u002B\\Lab2c\u002B\u002B.vcxproj|solutionrelative:Lab2c\u002B\u002B\\Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832CEFCE-7A87-4675-A1C2-B83AC0A8AAD5}|Lab2c\u002B\u002B\\Lab2c\u002B\u002B.vcxproj|C:\\Users\\nickw\\OneDrive\\Desktop\\School\\Semester 4\\C\u002B\u002B Game Dev\\lab2-c--\\Lab2c\u002B\u002B\\Lab2c\u002B\u002B\\ManaPotion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{832CEFCE-7A87-4675-A1C2-B83AC0A8AAD5}|Lab2c\u002B\u002B\\Lab2c\u002B\u002B.vcxproj|solutionrelative:Lab2c\u002B\u002B\\ManaPotion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832CEFCE-7A87-4675-A1C2-B83AC0A8AAD5}|Lab2c\u002B\u002B\\Lab2c\u002B\u002B.vcxproj|C:\\Users\\nickw\\OneDrive\\Desktop\\School\\Semester 4\\C\u002B\u002B Game Dev\\lab2-c--\\Lab2c\u002B\u002B\\Lab2c\u002B\u002B\\HealthPotion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{832CEFCE-7A87-4675-A1C2-B83AC0A8AAD5}|Lab2c\u002B\u002B\\Lab2c\u002B\u002B.vcxproj|solutionrelative:Lab2c\u002B\u002B\\HealthPotion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832CEFCE-7A87-4675-A1C2-B83AC0A8AAD5}|Lab2c\u002B\u002B\\Lab2c\u002B\u002B.vcxproj|C:\\Users\\nickw\\OneDrive\\Desktop\\School\\Semester 4\\C\u002B\u002B Game Dev\\lab2-c--\\Lab2c\u002B\u002B\\Lab2c\u002B\u002B\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{832CEFCE-7A87-4675-A1C2-B83AC0A8AAD5}|Lab2c\u002B\u002B\\Lab2c\u002B\u002B.vcxproj|solutionrelative:Lab2c\u002B\u002B\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventory.cpp",
+              "DocumentMoniker": "C:\\Users\\nickw\\OneDrive\\Desktop\\School\\Semester 4\\C\u002B\u002B Game Dev\\lab2-c--\\Lab2c\u002B\u002B\\Lab2c\u002B\u002B\\Inventory.cpp",
+              "RelativeDocumentMoniker": "Lab2c\u002B\u002B\\Inventory.cpp",
+              "ToolTip": "C:\\Users\\nickw\\OneDrive\\Desktop\\School\\Semester 4\\C\u002B\u002B Game Dev\\lab2-c--\\Lab2c\u002B\u002B\\Lab2c\u002B\u002B\\Inventory.cpp",
+              "RelativeToolTip": "Lab2c\u002B\u002B\\Inventory.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-01T03:51:14.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab2c\u002B\u002B.cpp",
+              "DocumentMoniker": "C:\\Users\\nickw\\OneDrive\\Desktop\\School\\Semester 4\\C\u002B\u002B Game Dev\\lab2-c--\\Lab2c\u002B\u002B\\Lab2c\u002B\u002B\\Lab2c\u002B\u002B.cpp",
+              "RelativeDocumentMoniker": "Lab2c\u002B\u002B\\Lab2c\u002B\u002B.cpp",
+              "ToolTip": "C:\\Users\\nickw\\OneDrive\\Desktop\\School\\Semester 4\\C\u002B\u002B Game Dev\\lab2-c--\\Lab2c\u002B\u002B\\Lab2c\u002B\u002B\\Lab2c\u002B\u002B.cpp",
+              "RelativeToolTip": "Lab2c\u002B\u002B\\Lab2c\u002B\u002B.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-01T03:51:17.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManaPotion.h",
+              "DocumentMoniker": "C:\\Users\\nickw\\OneDrive\\Desktop\\School\\Semester 4\\C\u002B\u002B Game Dev\\lab2-c--\\Lab2c\u002B\u002B\\Lab2c\u002B\u002B\\ManaPotion.h",
+              "RelativeDocumentMoniker": "Lab2c\u002B\u002B\\ManaPotion.h",
+              "ToolTip": "C:\\Users\\nickw\\OneDrive\\Desktop\\School\\Semester 4\\C\u002B\u002B Game Dev\\lab2-c--\\Lab2c\u002B\u002B\\Lab2c\u002B\u002B\\ManaPotion.h",
+              "RelativeToolTip": "Lab2c\u002B\u002B\\ManaPotion.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-01T03:46:22.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inventory.h",
+              "DocumentMoniker": "C:\\Users\\nickw\\OneDrive\\Desktop\\School\\Semester 4\\C\u002B\u002B Game Dev\\lab2-c--\\Lab2c\u002B\u002B\\Lab2c\u002B\u002B\\Inventory.h",
+              "RelativeDocumentMoniker": "Lab2c\u002B\u002B\\Inventory.h",
+              "ToolTip": "C:\\Users\\nickw\\OneDrive\\Desktop\\School\\Semester 4\\C\u002B\u002B Game Dev\\lab2-c--\\Lab2c\u002B\u002B\\Lab2c\u002B\u002B\\Inventory.h",
+              "RelativeToolTip": "Lab2c\u002B\u002B\\Inventory.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-01T03:46:30.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HealthPotion.h",
+              "DocumentMoniker": "C:\\Users\\nickw\\OneDrive\\Desktop\\School\\Semester 4\\C\u002B\u002B Game Dev\\lab2-c--\\Lab2c\u002B\u002B\\Lab2c\u002B\u002B\\HealthPotion.h",
+              "RelativeDocumentMoniker": "Lab2c\u002B\u002B\\HealthPotion.h",
+              "ToolTip": "C:\\Users\\nickw\\OneDrive\\Desktop\\School\\Semester 4\\C\u002B\u002B Game Dev\\lab2-c--\\Lab2c\u002B\u002B\\Lab2c\u002B\u002B\\HealthPotion.h",
+              "RelativeToolTip": "Lab2c\u002B\u002B\\HealthPotion.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-01T03:46:11.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Item.h",
+              "DocumentMoniker": "C:\\Users\\nickw\\OneDrive\\Desktop\\School\\Semester 4\\C\u002B\u002B Game Dev\\lab2-c--\\Lab2c\u002B\u002B\\Lab2c\u002B\u002B\\Item.h",
+              "RelativeDocumentMoniker": "Lab2c\u002B\u002B\\Item.h",
+              "ToolTip": "C:\\Users\\nickw\\OneDrive\\Desktop\\School\\Semester 4\\C\u002B\u002B Game Dev\\lab2-c--\\Lab2c\u002B\u002B\\Lab2c\u002B\u002B\\Item.h",
+              "RelativeToolTip": "Lab2c\u002B\u002B\\Item.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-01T03:45:58.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
