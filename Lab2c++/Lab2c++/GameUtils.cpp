@@ -16,5 +16,5 @@ void printStats(const CharacterStats& stats)
 }
 void deleteCharacter(CharacterStats* character)
 {
-	delete character;
+	delete character;// fress the heap memory pointed by "character"
 }
