@@ -1,8 +1,10 @@
-
-
 #include "CharacterStats.h"
 #include "GameUtils.h"
 #include <iostream>
+
+#include "Inventory.h"
+#include "HealthPotion.h"
+#include "ManaPotion.h"
 
 int main()
 {
@@ -14,6 +16,24 @@ int main()
  
     deleteCharacter(mage);//free the heap memory
     return 0;
+
+	//task 2
+	Inventory inventory(3);
+
+	inventory.addQuickItem(new HealthPotion(), 0);
+	inventory.addQuickItem(new ManaPotion(), 1);
+
+	inventory.addMainItem(new HealthPotion(), 0);
+	inventory.addMainItem(new ManaPotion(), 1);
+
+	inventory.addQuestItem(new HealthPotion());
+	inventory.addQuestItem(new ManaPotion());
+
+	inventory.useItem(0);
+	inventory.useItem(1);
+	inventory.useItem(4);
+
+	inventory.useAllQuestItems();
+
+	return 0;
 }
-
-

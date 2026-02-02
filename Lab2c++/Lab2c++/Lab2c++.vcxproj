@@ -129,11 +129,16 @@
   <ItemGroup>
     <ClCompile Include="CharaterStats.cpp" />
     <ClCompile Include="GameUtils.cpp" />
+    <ClCompile Include="Inventory.cpp" />
     <ClCompile Include="Lab2c++.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CharacterStats.h" />
     <ClInclude Include="GameUtils.h" />
+    <ClInclude Include="HealthPotion.h" />
+    <ClInclude Include="Inventory.h" />
+    <ClInclude Include="Item.h" />
+    <ClInclude Include="ManaPotion.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
