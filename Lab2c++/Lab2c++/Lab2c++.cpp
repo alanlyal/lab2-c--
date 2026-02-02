@@ -13,10 +13,8 @@ int main()
     printStats(warrior);// access the memory of stack on once main ends the warrior memory is freed
     CharacterStats* mage = createCharacterOnHeap(80, 100, 50, CharacterClass::Mage);//allocates object on heap
     printStats(*mage);//accesses heap onject via stack pointer
- 
     deleteCharacter(mage);//free the heap memory
-    return 0;
-
+   
 	//task 2
 	Inventory inventory(3);
 
